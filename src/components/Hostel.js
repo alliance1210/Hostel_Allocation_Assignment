@@ -33,12 +33,12 @@ else if(gender === 1){
     return(
         <div>
             <container>
-                <Buttons id="1" avail={true} name="G1"/>
-                <Buttons id="2" avail={true} name="G2"/>
-                <Buttons id="3" avail={true} name="G3"/>
-                <Buttons id="4" avail={true} name="G4"/>
-                <Buttons id="5" avail={true} name="G5"/>
-                <Buttons id="6" avail={true} name="G6"/>
+                <Buttons id="1"  name="G1"/>
+                <Buttons id="2" name="G2"/>
+                <Buttons id="3"  name="G3"/>
+                <Buttons id="4"  name="G4"/>
+                <Buttons id="5"  name="G5"/>
+                <Buttons id="6"  name="G6"/>
 
             </container>
 
@@ -49,12 +49,12 @@ else if(gender === 2){
     return(
         <div>
             <container>
-            <Buttons id="1" avail={true} name="B1"/>
-            <Buttons id="2" avail={true} name="B2"/>
-            <Buttons id="3" avail={true} name="B3"/>
-            <Buttons id="4" avail={true} name="B4"/>
-            <Buttons id="5" avail={true} name="B5"/>
-            <Buttons id="6" avail={true} name="B6"/>
+            <Buttons id="1"  name="B1"/>
+            <Buttons id="2"  name="B2"/>
+            <Buttons id="3"  name="B3"/>
+            <Buttons id="4"  name="B4"/>
+            <Buttons id="5"  name="B5"/>
+            <Buttons id="6"  name="B6"/>
 
             </container>
 
